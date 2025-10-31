@@ -4,7 +4,7 @@ go 1.24.3
 
 require (
 	github.com/go-core-fx/fxutil v0.0.0-20251027105421-acea37162eb9
-	github.com/go-core-fx/validator v0.0.0-20251027105711-abf1d955722d
+	github.com/go-playground/validator/v10 v10.28.0
 	github.com/gofiber/contrib/fiberzap/v2 v2.1.6
 	github.com/gofiber/fiber/v2 v2.52.9
 	go.uber.org/fx v1.24.0
@@ -16,7 +16,6 @@ require (
 	github.com/gabriel-vasile/mimetype v1.4.10 // indirect
 	github.com/go-playground/locales v0.14.1 // indirect
 	github.com/go-playground/universal-translator v0.18.1 // indirect
-	github.com/go-playground/validator/v10 v10.28.0 // indirect
 	github.com/google/uuid v1.6.0 // indirect
 	github.com/klauspost/compress v1.17.9 // indirect
 	github.com/leodido/go-urn v1.4.0 // indirect

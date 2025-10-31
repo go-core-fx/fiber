@@ -3,7 +3,7 @@ package handler
 import (
 	"fmt"
 
-	"github.com/go-core-fx/validator"
+	"github.com/go-playground/validator/v10"
 	"github.com/gofiber/fiber/v2"
 )
 
@@ -12,7 +12,7 @@ type validatable interface {
 }
 
 type Base struct {
-	Validator *validator.Validator
+	Validator *validator.Validate
 }
 
 // BodyParserValidator parses the request body and validates the resulting object.

@@ -6,8 +6,6 @@ github.com/gabriel-vasile/mimetype v1.4.10 h1:zyueNbySn/z8mJZHLt6IPw0KoZsiQNszIp
 github.com/gabriel-vasile/mimetype v1.4.10/go.mod h1:d+9Oxyo1wTzWdyVUPMmXFvp4F9tea18J8ufA774AB3s=
 github.com/go-core-fx/fxutil v0.0.0-20251027105421-acea37162eb9 h1:0rpJfg+QM3TAFCTignjzPovNkBHeEjOe+ILo+2Mz9aA=
 github.com/go-core-fx/fxutil v0.0.0-20251027105421-acea37162eb9/go.mod h1:nljLWn+Ck1Rrqv9DPdD7Czdd0j5uF+9YRPNs/DpCfnw=
-github.com/go-core-fx/validator v0.0.0-20251027105711-abf1d955722d h1:EOQoMA1XCS5v4nvCH4Qixf71WlymGTpsOBG3h5SpCbg=
-github.com/go-core-fx/validator v0.0.0-20251027105711-abf1d955722d/go.mod h1:9+KVAgr98KqY+cgP7gI983q7aKD6TZOZNKkxulG7lb0=
 github.com/go-playground/assert/v2 v2.2.0 h1:JvknZsQTYeFEAhQwI4qEt9cyV5ONwRHC+lYKSsYSR8s=
 github.com/go-playground/assert/v2 v2.2.0/go.mod h1:VDjEfimB/XKnb+ZQfWdccd7VUvScMdVu0Titje2rxJ4=
 github.com/go-playground/locales v0.14.1 h1:EWaQ/wswjilfKLTECiXz7Rh+3BjFhfDFKv/oXslEjJA=
